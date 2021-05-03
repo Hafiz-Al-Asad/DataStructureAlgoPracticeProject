@@ -3,6 +3,7 @@ package com.company.hafiz;
 import java.util.List;
 
 public class Queue {
+
     private int stackMax = 5;
     Item item;
     public Queue(){

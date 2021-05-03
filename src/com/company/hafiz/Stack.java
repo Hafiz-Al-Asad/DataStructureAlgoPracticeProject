@@ -6,6 +6,7 @@ import java.util.List;
 
 public class Stack {
 
+
     private int stackMax = 5;
     Item item;
     public Stack(){
