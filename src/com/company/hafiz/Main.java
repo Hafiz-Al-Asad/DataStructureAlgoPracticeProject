@@ -11,11 +11,11 @@ public class Main {
         Main main = new Main();
 
        //main.stackCall();
-       // main.queueCall();
+       //main.queueCall();
        // main.primeCheck();
        // main.binarySearch();
-        main.linkedList();
-        main.maxHeapCheck();
+       // main.linkedList();
+        //main.maxHeapCheck();
 
     }
 
